@@ -1,0 +1,45 @@
+h1
+{
+	color:#0800FF; 
+	font-size: large; 
+	font-family: comic Sans; 
+	font-style: italic; 
+	font-weight: bold; 
+	text-decoration: none; 
+	text-align: center;   
+}
+h2
+{
+	color:#B600FF;
+	font-size: medium;
+	font-family: comic Sans;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+	text-align: left;
+}
+p
+{
+   color: black;
+   font-size: medium;
+   font-family: comic Sans;
+   font-style: normal;
+   font-weight: normal;
+   text-decoration: none;
+   text-align: left; 	
+}
+body
+{
+background-color: #c0b2e7 ;
+}
+ul
+ {
+ 	color:#FFC100;
+ }
+ ol
+ {
+ 	color:teal;
+ }
+ table
+ {
+ 	color:#9700ff;
