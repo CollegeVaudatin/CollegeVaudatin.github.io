@@ -1,0 +1,81 @@
+p
+{
+color : darkblue;
+}
+
+ol
+{
+color : limegreen;
+}	
+ul
+{
+color : green;
+}
+body
+{
+background-color : silver;
+}
+body
+{
+text-align : center;
+}
+h1
+{
+color : navy;
+}
+h2
+{
+color : yellow;
+}
+img
+{
+border-top: 3px dashed red
+
+}
+img{
+border-right: 3px double aqua
+}
+img
+{
+border-left: 3px double aqua
+}
+img
+{
+border-bottom: 3px dashed red
+}
+td
+{
+border-color: purple
+}
+td
+{
+border-radius: 30px
+}
+td
+{
+padding: 10px
+}
+footer
+{
+font-size: x-large;
+}
+header
+{
+font-size: x-large; 
+}
+main
+{
+font-size: medium;
+}
+section
+{
+text-align: left;
+}
+h1
+{
+text-align: center;
+}
+h2
+{
+text-align: center;
+}
