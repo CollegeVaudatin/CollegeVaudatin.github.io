@@ -1,0 +1,47 @@
+h1
+{
+	color: blue;
+	font-size: x-large;
+    font-family: Comic Sans; 
+	font-style: italic;
+    font-weight: bold;
+	text-decoration: blink;
+	text-align: center;
+}
+h2
+{
+	color:  #ff009b ;
+	font-size: medium; 
+	font-family: Comic Sans; 
+	font-style: normal; 
+	font-weight: normal; 
+	text-decoration: none; 
+	text-align: left;
+}
+p
+{
+	color: #764AF1; 
+	font-size: medium; 
+	font-family: Comic Sans; 
+	font-style: normal; 
+	font-weight: bold; 
+	text-decoration: underline;
+	text-align: center;
+}
+body
+{
+	background-color: #7FDEE8; 
+}
+ul
+{
+	color: #F14A9B; 
+}
+ol
+{
+	color:    #8e8c06;
+}
+table
+{
+	color:    #003975  
+}
+
