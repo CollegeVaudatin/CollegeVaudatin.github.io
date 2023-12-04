@@ -1,0 +1,17 @@
+body
+{
+	background-color: skyblue;
+}
+p { 
+    border-top: 3px #187498 solid; 
+    border-right: 3px #187498 solid; 
+    border-bottom: 3px #187498 solid; 
+    border-left: 3px #187498 solid;
+    }
+ul { 
+    border-top: 3px #187498 solid; 
+    border-right: 3px #187498 solid; 
+    border-bottom: 3px #187498 solid; 
+    border-left: 3px #187498 solid;
+    }
+    
