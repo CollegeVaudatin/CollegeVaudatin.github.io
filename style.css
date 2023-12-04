@@ -1,0 +1,27 @@
+body
+{
+	background-color: lightblue;
+	text-align: center;
+	font-family: fantasy ;
+}
+li
+{
+	text-align: center;
+	border-left: 5px blue solid;
+	background-color: white
+}
+h1
+{
+	border-left: 5px blue solid;
+	background-color: white
+}
+p
+{
+	border-left: 5px blue solid;
+	background-color: white
+}
+header
+{
+	border-left: 5px blue solid;
+	background-color: white
+}
