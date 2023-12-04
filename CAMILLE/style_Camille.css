@@ -1,0 +1,39 @@
+h1
+	{
+    color:black;
+	font-size:xx-large;
+	font-family:impact;
+	font-style:normal;
+	font-weight:bold;
+	text-decoration:blink;
+	text-align:left;
+	}
+
+h2
+    { 
+    color:black;
+    font-size:medium;
+    font-family:impact;
+    font-style:normal;
+    font-weight:bold;
+    text-decoration:underline;
+    text-align:left;
+    }
+    
+p
+    {
+     color:maroon;
+     font-size:small;
+     font-family:arial black;
+     font-style:normal;
+     font-weight:normal;
+     text-decoration:blink;
+     text-align:left;
+    }
+
+body
+{
+background-color: #f77852 ;
+
+}
+     
